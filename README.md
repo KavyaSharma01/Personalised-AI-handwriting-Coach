@@ -36,4 +36,4 @@ localhost:3232
 
 Live demonstration for learn and Test sides. Here you can upload your handwritten data and it will predict the correctness value .
 
-![Demostration](./demo.gif)
+![Demostration](./Learn side demo.gif)
