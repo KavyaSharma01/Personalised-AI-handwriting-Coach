@@ -36,13 +36,15 @@ localhost:3232
 
 Live demonstration for learn and Test sides. Here you can upload your handwritten data and it will predict the correctness value.
 
+Test Side Demo:-
+
+![ezgif-5-5c6f11b3ab](https://github.com/user-attachments/assets/25443b08-498b-4675-a369-d154d78fc8fd)
+
+
+
 Learn Side Demo:-
 
  ![Learn side demo](https://github.com/user-attachments/assets/c0df0660-9830-45c1-bbd4-c9f1edfac59d)
-
-Test Side Demo:-
-
-[![Test side demo-2](https://github.com/user-attachments/assets/65c83f7f-a52a-4f88-8fda-4165be9d2ac0)](https://github.com/user-attachments/assets/aee1e1cb-47a4-4748-a202-61a543ee85b3)
 
 
  ## Features
