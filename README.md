@@ -34,6 +34,27 @@ localhost:3232
 
 ## Demonstration
 
-Live demonstration for learn and Test sides. Here you can upload your handwritten data and it will predict the correctness value .
+Live demonstration for learn and Test sides. Here you can upload your handwritten data and it will predict the correctness value.
 
-![Demostration](./Learn side demo.gif)
+Learn Side Demo:-
+
+ ![Learn side demo](https://github.com/user-attachments/assets/c0df0660-9830-45c1-bbd4-c9f1edfac59d)
+
+Test Side Demo:-
+
+ ![Test side demo](https://github.com/user-attachments/assets/e6172b01-0017-4f9f-a26c-1a6faee5c354)
+
+ ## Features
+* **Learn:** User can choose to "Learn" in order to rectify and enhace their handwriting. The app gives them a sample of the particular character seeing which the user can practice writing.
+* **Test:** The user will be promped to write a particular character, without any hint. A verdict will be given by the app as the score of this test.
+
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
+Star it if you liked the project. For any kind of feedback reach us through linked in (link added in the contributors part).
