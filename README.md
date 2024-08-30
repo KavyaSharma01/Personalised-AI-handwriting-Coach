@@ -44,7 +44,7 @@ Test Side Demo:-
 
 Learn Side Demo:-
 
- ![Learn side demo](https://github.com/user-attachments/assets/c0df0660-9830-45c1-bbd4-c9f1edfac59d)
+![ezgif-4-cae5352b81](https://github.com/user-attachments/assets/175267c8-6e8d-43bd-89c5-06a777970b48)
 
 
  ## Features
