@@ -42,7 +42,8 @@ Learn Side Demo:-
 
 Test Side Demo:-
 
- ![Test side demo](https://github.com/user-attachments/assets/e6172b01-0017-4f9f-a26c-1a6faee5c354)
+![Test side demo-2](https://github.com/user-attachments/assets/65c83f7f-a52a-4f88-8fda-4165be9d2ac0)
+
 
  ## Features
 * **Learn:** User can choose to "Learn" in order to rectify and enhace their handwriting. The app gives them a sample of the particular character seeing which the user can practice writing.
